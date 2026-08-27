@@ -10,7 +10,7 @@
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-derar.ly-1E1E1E?style=for-the-badge&logo=safari&logoColor=white)](https://derar.ly)
 [![Email](https://img.shields.io/badge/CONTACT-walkthrough_on_request-6B655C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zzxxccz908@gmail.com)
 
-<sub>Architected & built by [Drar Ramadan](https://github.com/DerarRamadan)</sub>
+<sub>Architected & built by [Derar Ramadan](https://github.com/DerarRamadan)</sub>
 
 </div>
 
@@ -121,6 +121,6 @@ The **Zwara production codebase remains private**. A guided code walkthrough is 
 
 <div align="center">
 
-<sub><i>© 2026 Drar Ramadan · [derar.ly](https://derar.ly) · Tripoli, Libya / Remote Worldwide</i></sub>
+<sub><i>© 2026 Derar Ramadan · [derar.ly](https://derar.ly) · Tripoli, Libya / Remote Worldwide</i></sub>
 
 </div>
